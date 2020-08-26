@@ -6,7 +6,7 @@ The goal of this industry project was to help Company A improve its smart signag
 The product consists of monitors equipped with camera and sensors that can track customers in physical stores.
 This allows the company to have a better understanding of the customers and offer targeted ads on its monitors.
 
-This project focuses on applying Machine Learning (as well as Deep Learning, to some extent) on the data captured by the product sensors in order to predict accurately customers' presence, physical position, and ultimately attention to the monitor in seven physical stores.
+This project focuses on applying Machine Learning (as well as Deep Learning, to some extent) on the data captured by the product sensors in order to predict accurately customers' presence (1), physical position (2), and ultimately attention to the monitor (3) in seven physical stores.
 
 The long-term goal is to implement ML/DL models into the product to improve the accuracy of the ad targeting, and increase the hit rate of ads bid on and displayed on the company's monitors.
 
